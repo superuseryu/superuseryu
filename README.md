@@ -1,8 +1,10 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/superuseryu/superuseryu/main/assets/banner.gif" width="100%"/>
-</div>
+<p align="center">
+  <a href="https://github.com/superuseryu">
+    <img src="https://cardivo.vercel.app/api?name=superuseryu&description=hobbyist%20%7C%20android%20%7C%20linux%20%7C%20just%20for%20fun&image=https://avatars.githubusercontent.com/superuseryu&backgroundColor=%230d1117&pattern=leaf&colorPattern=%230d1117&fontColor=%23ffffff&hideIcons=true" />
+  </a>
+</p>
 
-<br/>
+---
 
 <div align="center">
   <h3>about my system</h3>
